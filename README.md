@@ -35,11 +35,11 @@ plugins {
 }
 
 dependencies {
-    implementation 'com.trustwallet:wallet-core:x.y.z'
+    implementation 'com.mywallet:wallet-core:x.y.z'
 }
 ```
 Replace x.y.z with latest version:  
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/trustwallet/wallet-core)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mywallet/wallet-core)
 
 ## iOS
 
