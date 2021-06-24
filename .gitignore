@@ -1,32 +1,58 @@
-# Prerequisites
-*.d
+# Misc
+.DS_Store
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Build directories
+.build/
+build/
+xcode/
+cmake-build-debug/
+.cquery_cache/
+.cxx/
+.cache/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Dependencies
+node_modules
+lib/json
+lib/protobuf
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Editor
+*~
+*.orig
+.idea/
+.vscode/
+.project
+.history/
 
-# Fortran module files
-*.mod
-*.smod
+# Generated files
+jni/cpp/generated
+jni/java/wallet/core/jni
+swift/Sources/Generated
+swift/wallet-core/
+src/Generated
+include/TrustWalletCore/TWHRP.h
+include/TrustWalletCore/TW*Proto.h
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Code coverage files
+coverage.info
+coverage/
+swift/test_output/
 
-# Executables
-*.exe
-*.out
-*.app
+# Sourcetrail
+*.srctrldb
+*.srctrlbm
+
+# Samples -- iOS
+Pods/
+
+# Samples -- C++
+# build
+samples/cpp/CMakeFiles
+samples/cpp/CMakeCache.txt
+samples/cpp/Makefile
+samples/cpp/*.cmake
+
+# built binary
+samples/cpp/sample
+
+*.xcuserdatad/
+
