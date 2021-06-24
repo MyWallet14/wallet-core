@@ -1,22 +1,20 @@
-<img src="docs/banner.png" align="center" title="Trust logo">
-
 My Wallet Core is an open source, cross-platform, mobile-focused library
 implementing low-level cryptographic wallet functionality for a high number of blockchains.
 It is a core part of the popular [My Wallet](https://www.mywalletbsc.com), and some other projects.
 Most of the code is C++ with a set of strict C interfaces, and idiomatic interfaces for supported languages:
 Swift for iOS and Java for Android.
 
-![iOS CI](https://github.com/trustwallet/wallet-core/workflows/iOS%20CI/badge.svg)
-![Android CI](https://github.com/trustwallet/wallet-core/workflows/Android%20CI/badge.svg)
-![Linux CI](https://github.com/trustwallet/wallet-core/workflows/Linux%20CI/badge.svg)
-![Docker CI](https://github.com/trustwallet/wallet-core/workflows/Docker%20CI/badge.svg)
-![Typescript CI](https://github.com/trustwallet/wallet-core/workflows/Typescript%20CI/badge.svg)
+![iOS CI]
+![Android CI]
+![Linux CI]
+![Docker CI]
+![Typescript CI]
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/trustwallet/wallet-core)
-![GitHub](https://img.shields.io/github/license/TrustWallet/wallet-core.svg)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/trustwallet/wallet-core)
-![Cocoapods](https://img.shields.io/cocoapods/v/TrustWalletCore.svg)
-![Cocoapods platforms](https://img.shields.io/cocoapods/p/TrustWalletCore.svg)
+[![Gitpod Ready-to-Code]
+![GitHub]
+![GitHub release (latest by date)]
+![Cocoapods]
+![Cocoapods platforms]
 
 # Supported Blockchains
 
