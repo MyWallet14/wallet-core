@@ -46,7 +46,7 @@ Replace x.y.z with latest version:
 We currently support only CocoaPods. Add this line to your Podfile and run `pod install`:
 
 ```ruby
-pod 'TrustWalletCore'
+pod 'myWalletCore'
 ```
 
 # License
